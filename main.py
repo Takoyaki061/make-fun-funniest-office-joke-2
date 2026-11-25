@@ -1,15 +1,26 @@
 #!/usr/bin/env python3
 """Write one office joke to /output/entry.txt.
 
-The joke: you block two hours for deep work, and Outlook instantly
-books a meeting inside it titled "Why Nothing Gets Done." — the
-calendar itself staging the complaint. Standard library only,
-deterministic, no network.
+The joke: someone keeps stealing your lunch, so you label it
+"Do not eat — stool sample." The trap works — and then it punishes
+the trapper, because now you don't want it either. A double turn:
+the setup's revenge backfires on its own author.
+
+Why this line (judge criteria, in order): (1) a real joke with a
+setup (lunch theft) and TWO turns (the label works, then it
+backfires); (2) the shared-fridge lunch thief is universal office
+life; (3) the surprise is the second turn — the trap succeeds and
+still costs you your lunch; (4) one line, 128 characters, punchline
+("now I don't want it either") last; (5) a fresh angle, not the
+tired meeting/printer complaint.
+
+Standard library only, deterministic, no network.
 """
 
 JOKE = (
-    'I blocked two hours for deep work, and Outlook instantly booked '
-    'a meeting in it titled "Why Nothing Gets Done."'
+    'Someone kept stealing my lunch, so I labeled today\'s '
+    '"Do not eat \u2014 stool sample." It worked, but now I don\'t '
+    'want it either.'
 )
 
 

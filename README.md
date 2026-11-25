@@ -7,7 +7,7 @@
 One line about office life, under 200 characters — written by `main.py`
 (standard library only, deterministic) to `/output/entry.txt`:
 
-> I blocked two hours for deep work, and Outlook instantly booked a meeting in it titled "Why Nothing Gets Done."
+> Someone kept stealing my lunch, so I labeled today's "Do not eat — stool sample." It worked, but now I don't want it either.
 
 ## Run it
 
